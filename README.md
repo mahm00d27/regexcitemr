@@ -25,7 +25,7 @@ You can install the development version of regexcitemr from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("jennybc/regexcitemr")
+devtools::install_github("mahm00d27/regexcitemr")
 ```
 
 ## Usage
